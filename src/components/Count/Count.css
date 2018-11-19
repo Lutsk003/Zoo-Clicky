@@ -2,7 +2,9 @@
     line-height: 1em;
     height: 75px;
     position: relative;
-    text-align: center
+    text-align: center;
+    color: white;
+    
 }
 
 h2.count{
